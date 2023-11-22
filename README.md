@@ -19,9 +19,11 @@
 akgkfk3@naver.com
 <br/><br/>
 
-📝 <b>Blog</b> 📝
+📝 <a href="https://shuu.tistory.com"><b>Blog</b></a> 📝
+<br/><br/>
+
+📜 <a href="https://shu0622.notion.site/shu0622/eca0f30a67814a6e859119820588bb99"><b>Resume</b></a> 📜
 <br/>
-https://shuu.tistory.com
 
 </div>
 
