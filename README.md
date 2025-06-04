@@ -22,9 +22,6 @@ akgkfk3@naver.com
 📝 <a href="https://shuu.tistory.com"><b>Blog</b></a> 📝
 <br/><br/>
 
-📜 <a href="https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EB%B0%95-a88a9729b/"><b>Resume</b></a> 📜
-<br/>
-
 </div>
 
 
